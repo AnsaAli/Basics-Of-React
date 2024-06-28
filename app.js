@@ -1,16 +1,15 @@
-//to show it in nested style
-/* 
-<div id= 'parent'>
-    <div id= 'child1'>
-        <h1></h1>
-         <h2></h2>
-    </div>
-    <div id= 'child2'>
-        <h1></h1>
-         <h2></h2>
-    </div>
-</div>
- */
+/* in the terminal npm init
+
+   npm instqall -D parcel : to ignite the code
+
+   npx  parcel index.html 
+
+   npm install react
+
+   npm i react-dom
+*/
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 const parent = 
     React.createElement('div', { id: 'parent' }, //parent 

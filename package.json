@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "My first React code",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnsaAli/Basics-Of-React.git"
+  },
+  "keywords": [],
+  "author": "Ansa Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnsaAli/Basics-Of-React/issues"
+  },
+  "homepage": "https://github.com/AnsaAli/Basics-Of-React#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
